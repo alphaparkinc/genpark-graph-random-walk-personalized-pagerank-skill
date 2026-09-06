@@ -1,0 +1,15 @@
+{
+  "name": "genpark-graph-random-walk-personalized-pagerank-skill",
+  "version": "1.0.0",
+  "description": "Computes Personalized PageRank over agent memory graphs for context-sensitive associative recall.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "personalized-pagerank",
+    "random-walk",
+    "graph-memory",
+    "associative-recall",
+    "entity-importance"
+  ]
+}
